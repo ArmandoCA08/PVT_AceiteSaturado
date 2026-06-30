@@ -47,13 +47,13 @@ PVT_AceiteSaturado.mlapp
 
 Después, ingrese los datos solicitados, seleccione la correlación deseada y presione el botón **Calcular**. La aplicación mostrará los resultados en una tabla y generará gráficas independientes para **Pb**, **Rs** y **Bo**.
 
-También se incluye un archivo de apoyo en MATLAB:
+También se incluye un script de apoyo en MATLAB:
 
 ```text
-PVT_AceiteSaturado.m
+ScriptPVT_AceiteSaturado.m
 ```
 
-Este script contiene datos de ejemplo y permite ejecutar los cálculos directamente desde MATLAB para generar las tres gráficas principales sin abrir la app.
+Este script contiene datos de ejemplo y permite ejecutar los cálculos directamente desde MATLAB para generar las tres gráficas principales sin abrir la app usando Matlab App Designer.
 
 ## Datos de entrada solicitados por la app
 
